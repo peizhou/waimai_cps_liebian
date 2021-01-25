@@ -3,7 +3,7 @@
 # 外卖红包小程序 美团外卖小程序 饿了么外卖小程序 美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。
 
 # 项目介绍
-- <a href="https://mp.weixin.qq.com/s?__biz=MjM5NDI1NTEzNA==&mid=2662938579&idx=1&sn=5de2fdb61f4fa3250d8ba44c5ba75ca9&chksm=bdc70fa28ab086b4df0974d447cbd998123c8109bb010803bc363b91a4860e56c1894044fdc8&scene=21#wechat_redirect">外卖cps淘客项目，被动引流月赚1w的赚钱玩法</a>
+- <a href="https://mp.weixin.qq.com/s/K2rjn4zg5-COfyuVmeTDnw">外卖cps淘客项目，被动引流月赚1w的赚钱玩法</a>
 
 - <a href="https://mp.weixin.qq.com/s/t9Lmcqc6i8c2n-50cU6M9g">外卖淘客CPS项目复盘与演进</a>
 
@@ -65,9 +65,27 @@ http://q.mybei.cn/
 
 # 联系方式
 
-<img width="600" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibRDVezfZ6ia3rkgATiaeesOjgDWuoMpPoqNVtL5EsLSAQXJ6BHMBOKIic0PASDbSDXzpcsN13Qa8qXlmiaahlrpRfQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+<img width="600" src="https://img.mybei.cn/WechatIMG33.jpeg"/>
 
 
+# 最后总结下外卖项目的非常重要的点
+
+1. 要带有裂变功能，实现人拉人，这样才会可持续，用户才会源源不断的流进来。你才能真正意义被动躺赚。
+
+2.要有种子用户，淘宝直通车是一个不错的选择，这样你的用户很快能够起来。这也就是刚开始说为什么淘宝直通车还有机会的原因。
+
+3.不要简单的用公众号直接挂链接，因为微信会封链接，隔一段时间，你的推广链接就变诱导了，这样你的用户全部损失了，还是要挂一个小程序。一定要挂一个小程序。
+
+4.不要脸持续推。
+
+需要裂变的小程序各位老板欢迎联系我，有什么不能谈的？
+微信：mybei95
+
+裂变小程序介绍官网：https://mybei.cn
+
+裂变小程序后台体验：http://q.mybei.cn
+
+账户：18512341234，密码：123456
 
 
 
