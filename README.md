@@ -68,7 +68,7 @@ http://q.mybei.cn/
 
 # 联系方式
 
-<img width="600" src="https://img.mybei.cn/WechatIMG33.jpeg"/>
+<img width="600" src="https://img.mybei.cn/WechatIMG3.jpeg"/>
 
 
 # 最后总结下外卖项目的非常重要的点
