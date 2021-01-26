@@ -84,7 +84,7 @@ http://q.mybei.cn/
 需要裂变的小程序各位老板欢迎联系我，有什么不能谈的？
 微信：mybei95
 
-裂变小程序介绍官网：https://mybei.cn
+裂变小程序介绍官网：http://mybei.cn
 
 裂变小程序后台体验：http://q.mybei.cn
 
