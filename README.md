@@ -11,6 +11,10 @@
 
 # 不裂变的版本免费提供
 
+## 不裂变版本体验
+
+   <img width="200" src="https://img.mybei.cn/gh_f9a7001e4c8f_258%20%281%29.jpg"/>
+
 ## 使用步骤
 
 - 下载本仓库代码 或者 git clone git@github.com:peizhou/waimai_cps_liebian.git
@@ -25,7 +29,7 @@
 - 小程序管理后台配置你的赚钱链接
   后台地址： http://q.mybei.cn 账号密码，添加微信：mybei95 开通
 
-<img src="https://img.mybei.cn/1611890058134.jpg"/>
+   <img width="600" src="https://img.mybei.cn/1611890058134.jpg"/>
 
 
 
