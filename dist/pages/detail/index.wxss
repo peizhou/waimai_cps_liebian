@@ -1,0 +1,33 @@
+.node {
+  padding: 20rpx 20rpx;
+}
+
+p {
+  padding: 20rpx 20rpx;
+}
+
+.title {
+  text-align: center;
+  height: 180rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40rpx;
+  border-bottom: solid 1rpx #d4d4d4;
+  margin-bottom: 20rpx;
+}
+
+.content {
+  text-align: left;
+}
+
+.content .p {
+  line-height: 70rpx;
+  color: #2b2a2a;
+  padding: 0 30rpx;
+}
+
+.content .p .img {
+  text-align: center;
+}
+
