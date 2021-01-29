@@ -8,6 +8,31 @@
 
 - <a href="https://mp.weixin.qq.com/s/t9Lmcqc6i8c2n-50cU6M9g">外卖淘客CPS项目复盘与演进</a>
 
+
+# 不裂变的版本免费提供
+
+## 不裂变版本体验
+
+   <img width="200" src="https://img.mybei.cn/gh_f9a7001e4c8f_258%20%281%29.jpg"/>
+
+## 使用步骤
+
+- 下载本仓库代码 或者 git clone git@github.com:peizhou/waimai_cps_liebian.git
+
+- 修改为你自己的微信小程序，打开 /dist/pages/ele/index.js 搜索 
+```var WXAppID = 'wx5dee831b44329220'```
+换成你自己的微信小程序appid
+
+- 小程序后台添加 request的域名：
+ ```https://p.mybei.cn;https://xcf.haozii.com; ```
+
+- 小程序管理后台配置你的赚钱链接
+  后台地址： http://q.mybei.cn 账号密码，添加微信：mybei95 开通
+
+   <img width="600" src="https://img.mybei.cn/1611890058134.jpg"/>
+
+
+
 # 带二级裂变功能
 
 # 技术栈
