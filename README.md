@@ -4,7 +4,7 @@
 # 饿了么、美团优惠开发(外卖cps,三级裂变源码)
 
 # 源码或搭建
-# [http://y.mybei.cn](y.mybei.cn)
+# [https://y.mybei.cn](https://y.mybei.cn)
 
 # 截图
   ![在这里插入图片描述](https://img.mybei.cn/demo.jpg)
